@@ -1,0 +1,6 @@
+<resources>
+
+    <color name="list_item_pressed">#0F9A00</color>
+    <color name="text_error">#F0FF00</color>
+
+</resources>
